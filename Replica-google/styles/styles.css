@@ -1,0 +1,70 @@
+.lista-encabezado{
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+
+li{
+    padding:5px ;
+}
+
+.img-google{
+    width: 300px;
+    height: 150px;
+}
+
+.contenedor-imagen{
+    text-align: center;
+    margin: top 30px;
+}
+
+.contendedor-bucador{
+    text-align: center;
+    margin: 0 auto;
+    
+}
+.input-buscador{
+    width: 500px;
+    height: 30px;
+}
+
+.boton1{
+    width: 200px;
+    height: 30px;
+    margin: 5px;
+    background-color: antiquewhite;
+    border: 0;
+}
+
+footer{
+    width: 100%;
+    height: 70px;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    background-color: antiquewhite;
+    align-items: center;
+   
+
+
+}
+.lista-pie-de-pagina{
+    list-style:none;
+    display: flex;
+    
+    
+
+}
+
+.lista-dos{
+    list-style:none;
+    display: flex;
+   
+}
+
